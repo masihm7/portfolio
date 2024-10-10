@@ -120,7 +120,7 @@ export const Projects=()=>{
               Slide Master
               </h3>
               {/* <!-- <hr class="projects__title-text-divider" /> --> */}
-              <span><i>HTML, CSS, React</i></span>
+              <span><i>HTML, CSS, React,Firebase</i></span>
               <p className="text-primary projects__list-item-text-primary">
                 <span>
                 Slide Master is a powerful web application designed for creating and managing presentations effortlessly. It offers features like adding and editing text, images, shapes, and preset templates for quick slide design. With a dark theme, draggable/resizable elements, and an intuitive control panel, Slide Master ensures a seamless user experience.
