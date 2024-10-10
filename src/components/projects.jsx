@@ -29,6 +29,7 @@ export const Projects=()=>{
               <h3 className="heading-tertiary projects__list-item-heading-tertiary">
               Watch2Gether
               </h3>
+              <span><i>HTML, CSS, React, Node, express, MongoDB</i></span>
               <p className="text-primary projects__list-item-text-primary">
                 <span>
                 Watch2Gether is a web application that allows users to create or join virtual rooms where they can watch YouTube videos in perfect synchronization with friends and chat in real-time. This project enhances online social interactions by providing a platform for sharing video-watching experiences, even when users are physically apart.
@@ -54,6 +55,7 @@ export const Projects=()=>{
               <h3 className="heading-tertiary projects__list-item-heading-tertiary">
               VibeTunes
               </h3>
+              <span><i>HTML, CSS, javascript, Bootstrap, Tailwind</i></span>
               <p className="text-primary projects__list-item-text-primary">
                 <span>
                 open-source music streaming application, designed to transform the way you experience music. Our dedicated team, driven by a deep passion for both music and technology, has crafted a platform that aims to provide an unparalleled listening experience, setting new standards in the industry.
@@ -89,6 +91,7 @@ export const Projects=()=>{
               <h3 className="heading-tertiary projects__list-item-heading-tertiary">
               Budget Buddy
               </h3>
+              <span><i>HTML, CSS, Bootstrap, Tailwind</i></span>
               {/* <!-- <hr class="projects__title-text-divider" /> --> */}
 
               <p className="text-primary projects__list-item-text-primary">
@@ -117,7 +120,7 @@ export const Projects=()=>{
               Slide Master
               </h3>
               {/* <!-- <hr class="projects__title-text-divider" /> --> */}
-
+              <span><i>HTML, CSS, React</i></span>
               <p className="text-primary projects__list-item-text-primary">
                 <span>
                 Slide Master is a powerful web application designed for creating and managing presentations effortlessly. It offers features like adding and editing text, images, shapes, and preset templates for quick slide design. With a dark theme, draggable/resizable elements, and an intuitive control panel, Slide Master ensures a seamless user experience.
