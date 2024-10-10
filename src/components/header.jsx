@@ -45,7 +45,7 @@ export const Header=()=>{
         </li>
       </ul>
     </div>
-    <button  onClick={() => window.open('https://drive.google.com/file/d/1MqvDYuhUEnrmLnDCJKRHHaRGqBEQ3F1e/view?usp=sharing', '_blank')} className="btn btn-theme btn-sm">Resume</button>
+    <button  onClick={() => window.open('https://drive.google.com/file/d/1MqvDYuhUEnrmLnDCJKRHHaRGqBEQ3F1c/view?usp=sharing', '_blank')} className="btn btn-theme btn-sm">Resume</button>
   </header>
 
     )
